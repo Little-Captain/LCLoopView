@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LCLoopView_Example' do
+  pod 'LCLoopView', :path => '../'
+
+  target 'LCLoopView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
