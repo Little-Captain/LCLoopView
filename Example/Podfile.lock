@@ -1,0 +1,16 @@
+PODS:
+  - LCLoopView (0.1.0)
+
+DEPENDENCIES:
+  - LCLoopView (from `../`)
+
+EXTERNAL SOURCES:
+  LCLoopView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LCLoopView: d2b08ea6e2e27e318ee77d3bc372097b056fa728
+
+PODFILE CHECKSUM: cd3d981b48f646e4d3377f0aca0f13e6167ac539
+
+COCOAPODS: 1.2.0

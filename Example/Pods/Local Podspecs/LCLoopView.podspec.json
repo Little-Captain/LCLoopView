@@ -1,0 +1,22 @@
+{
+  "name": "LCLoopView",
+  "version": "0.1.0",
+  "summary": "A short description of LCLoopView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cqqxxl/LCLoopView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cqqxxl": "littlecaptain@foxmail.com"
+  },
+  "source": {
+    "git": "https://github.com/cqqxxl/LCLoopView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LCLoopView/Classes/**/*"
+}

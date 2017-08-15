@@ -1,0 +1,6 @@
+framework module LCLoopView {
+  umbrella header "LCLoopView-umbrella.h"
+
+  export *
+  module * { export * }
+}
